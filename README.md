@@ -2,13 +2,13 @@
 
 This web-application will be a simple Chat Application where users can register and chat each other.
 
-Technologies that will be used:
+Technologies that will be used :
   - NestJS for Backend
   - WebSocket for Realtime messages
   - Angular for Frontend
   - MySQL for relational database
 
-What are the objectives : 
+What's the goal : 
   - Learn Typescript as good as Javascript
   - Learn new Frameworks like Angular and NestJS
   - Use and Learn WebSocket's server for the first time
